@@ -1,4 +1,6 @@
 ### Hi there 👋
+- https://hihi-haha-hoho.github.io/C4EJS95-Project-Team-2
+- https://cf46project-ui.herokuapp.com/
 
 <!--
 **hihi-haha-hoho/hihi-haha-hoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

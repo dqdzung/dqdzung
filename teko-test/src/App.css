@@ -1,0 +1,56 @@
+.App {
+	height: 100vh;
+}
+
+.App-logo {
+	height: 50px;
+	pointer-events: none;
+}
+
+.search-form {
+	width: 100%;
+}
+
+.search-container {
+	position: relative;
+}
+
+.icon {
+	position: absolute;
+	right: 10px;
+	top: 35%;
+	transform: scaleX(-1);
+}
+
+.img-wrapper {
+	height: 10%;
+	width: 90%;
+	border: #fafafa solid;
+}
+
+.img-wrapper img {
+	height: 200px;
+	width: 100%;
+	object-fit: contain;
+}
+
+.product-wrapper .card {
+	border: none;
+}
+
+.product-wrapper .card-body {
+	padding: 10px;
+}
+
+.card-body .card-title {
+	margin-bottom: 5px;
+	font-size: 1em;
+}
+
+.price {
+	color: red;
+}
+
+.loading-wrapper {
+	text-align: center;
+}

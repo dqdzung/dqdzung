@@ -6,6 +6,7 @@ export const Image = styled.img`
 	transition: all 0.3s;
 	object-fit: cover;
 	border-radius: 20px;
+	cursor: pointer;
 	animation: animateThumb 0.5s;
 
 	:hover {

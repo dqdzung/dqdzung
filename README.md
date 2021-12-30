@@ -1,5 +1,5 @@
 ### Practice projects
-- https://hihi-haha-hoho.github.io/bootstrap5-web-demo - pure HTML with Bootstrap 5
+- https://dqdzung.github.io/bootstrap5-web-demo - pure HTML with Bootstrap 5
 - https://cf46project-ui.herokuapp.com/ - a project to practice ReactJS
 - https://hihi-haha-hoho.github.io/C4EJS95-Project-Team-2 - a project to practice JS, HTML, CSS
 
